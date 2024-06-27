@@ -1,0 +1,30 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.playerCard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.playerCard h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.playerCard p {
+  margin: 5px 0;
+}
+
+.playerCard ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.playerCard li {
+  margin-bottom: 10px;
+}
